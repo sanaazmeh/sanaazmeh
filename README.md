@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanaazmeh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning and developing WordPress themes and plugins
-- 💞️ I’m looking to collaborate on WordPress themes and plugins
+- 💞️ I’m looking to collaborate on WordPress themes and plugins or React/Django Projects
 - 📫 How to reach me : send an email to sana@awebsitetosparkle.com
 
 <!---

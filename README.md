@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanaazmeh
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on WordPress themes and plugins or React/Django Projects
-- 📫 How to reach me : send an email to sana@awebsitetosparkle.com
+- 💞️ I’m looking to collaborate on React/Django Projects
+- 📫 How to reach me: send an email to hello@sanaazmeh.com
 
 <!---
 sanaazmeh/sanaazmeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
